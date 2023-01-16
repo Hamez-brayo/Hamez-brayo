@@ -1,22 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=Wassup,+JB+here...;Coding+is+what+I+do...;However,;Codes+are+like+cathedrals;After+building+them,;Prayer+keeps+them+running)](https://git.io/typing-svg)
 
-<p align="center">
-    <a href="https://github.com/Hamez-brayo/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="JB's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Hamez-brayo&theme=black-ice&hide_border=false&stroke=0000&background=10041c"/>
-    </a>
-</p>
-## Languages and Tools:
-<p align="center">
-    <a href="https://github.com/Hamez-brayo/github-readme-stats">
-    <img title="🔥 Get stats for your profile at git.io/readme-stats"
-    alt="JB's Stats" src="https://github-readme-stats.vercel.app/api?username=Hamez-brayo&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=10041c"/></a>
-    <a href="https://github.com/Hamez-brayo/github-readme-stats">
-    <img title="🔥 Get stats for your profile at git.io/readme-stats"
-    alt="JB's top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamez-brayo&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=10041c"/></a>
-
-</p>
-
-
 ## Connect with me:
 <p align="left">
 
