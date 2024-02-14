@@ -6,21 +6,19 @@
     <a href="https://github.com/Hamez-brayo/github-readme-stats"><img alt="JB's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Hamez-brayo&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Hamez-brayo/github-readme-stats"><img alt="JB's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamez-brayo&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. But I'm generally good tbh 😊
+  <b>Note:</b> Think of 'Top languages' like the playlist of my public code - it's just a mixtape of the languages I've grooved with. But hey, don't let that fool ya! I'm like a DJ spinning tunes - versatile, adaptable, and always ready to drop some coding beats! 🎧💻 So let's jam together and make some awesome projects, because this party's just getting started! 😊🚀
 
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-   </a> 
-   </a>  
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a href="https://www.kotlinlang.org" target="_blank"> <img style="width:40px" src="https://img.icons8.com/?size=512&id=rY6agKizO9eb&format=png"/> </a>
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a> 
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>   
+    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>
+    
     
 </p>
+
 
 <p align="center">
     <a href="https://github.com/Hamez-brayo/github-readme-streak-stats">
