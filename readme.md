@@ -8,7 +8,25 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. But I'm generally good tbh 😊
 
+## 🚀 Languages and Tools:
 
+<p align="left"> 
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+   </a> 
+   </a>  
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a href="https://www.kotlinlang.org" target="_blank"> <img style="width:40px" src="https://img.icons8.com/?size=512&id=rY6agKizO9eb&format=png"/> </a>
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a> 
+    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>   
+    
+</p>
+
+<p align="center">
+    <a href="https://github.com/Hamez-brayo/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="JB's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Hamez-brayo&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
 
 ## Connect with me:
