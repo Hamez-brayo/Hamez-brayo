@@ -2,13 +2,13 @@
 
 # [GitHub Stats](https://github.com/jstrieb/github-stats)
 
-<!--
-https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
--->
-<a href="https://github.com/Hamez-brayo/github-stats">
-<img src="https://github.com/Hamez-brayo/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/Hamez-brayo/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-</a>
+  <br/>
+    <a href="https://github.com/MwangiNelson/github-readme-stats"><img alt="Nelson 's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MwangiNelson&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/MwangiNelson/github-readme-stats"><img alt="Nelson's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MwangiNelson&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. But I'm generally good tbh 😊
+
+
 
 
 ## Connect with me:
@@ -18,3 +18,9 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
 <a href = "https://twitter.com/hamez_brayo"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/hamezzz.b__/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
+
+## ❤ Views and Followers
+<a href="https://github.com/MwangiNelson/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=MwangiNelson">
+</a>
+<a href="https://github.com/MwangiNelson?tab=followers"><img src="https://img.shields.io/github/followers/MwangiNelson?label=Followers&style=social" alt="GitHub Badge"></a>
